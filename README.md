@@ -5,7 +5,14 @@ This analysis was conducted to observe the differences in fare amongst rural, su
 
 # Results
 
-After analysis, the data showed that users in rural areas paid significantly more per ride than their suburban and urban counterparts, with urban riders paying the least per ride. There are multiple factors noted of why this may be the case. 
+After analysis, the data showed that users in rural areas paid significantly more per ride than their suburban and urban counterparts, with urban riders paying the least per ride.
+
+Average Fares from the time period studied are listed below:
+Rural       $55.49
+Suburban    $39.50
+Urban       $16.57
+
+There are multiple factors noted of why this may be the case. 
 
 For one, there are far less drivers in rural areas than urban areas, so this comes down to an issue of supply-and-demand. A random sampling shown below shows evident disparities in number of drivers.
 
