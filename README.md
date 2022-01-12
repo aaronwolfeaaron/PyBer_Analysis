@@ -5,6 +5,8 @@ This analysis was conducted to observe the differences in fare amongst rural, su
 
 # Results
 
+![](https://github.com/aaronwolfeaaron/PyBer_Analysis/blob/main/Final_Graph.png)
+
 After analysis, the data showed that users in rural areas paid significantly more per ride than their suburban and urban counterparts, with urban riders paying the least per ride.
 
 Average Fares from the time period studied are listed below:
