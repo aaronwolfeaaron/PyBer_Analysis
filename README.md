@@ -19,6 +19,10 @@ For one, there are far less drivers in rural areas than urban areas, so this com
 ![](https://github.com/aaronwolfeaaron/PyBer_Analysis/blob/main/Urban_Driver_Count.png)
 ![](https://github.com/aaronwolfeaaron/PyBer_Analysis/blob/main/Rural_Driver_Count.png)
 
+Second, the average fare per driver is much higher in rural areas, while in urban areas, the average fare per driver is significantly less than the average fare per ride, as evidenced by the information below. This shows that rural drivers are doing fewer, but longer, trips while urban drivers are doing more, but shorter, trips. 
+
+![](https://github.com/aaronwolfeaaron/PyBer_Analysis/blob/main/Fare_Per_Driver.png)
+
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
